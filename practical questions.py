@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#does nt required
 # coding: utf-8
 
 # ##  to use the operators
